@@ -1,0 +1,1 @@
+[23-Dec-2023 12:50:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/retrocubedev/public_html/qa/field_scope/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
